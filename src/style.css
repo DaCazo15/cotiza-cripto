@@ -21,15 +21,17 @@ body {
     margin: 0 auto;
 }
 .titulo {
-    font-size: 3.8rem;
+    font-size: 4rem;
     margin-top: 5rem;
     line-height: .8;
+    font-weight: 900;;
     color: var(--blanco);
 }
 .titulo span {
+    margin-top: .5rem;
     color: var(--primario);
     display: block;
-    font-size: 4.4rem;
+    font-size: 4.2rem;
 }
 .contenido {
     margin-top: 5rem;

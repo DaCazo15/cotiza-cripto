@@ -69,8 +69,9 @@
 </script>
 
 <template>
+
   <div class="contenedor">
-    <h1 class="titulo">Cotizador de <span>criptomonedas</span></h1>
+    <h1 class="titulo">Cotiza <span>LaCrypto</span></h1>
     <div class="contenido">
       <form class="formulario" @submit.prevent="cotizarMonedas">
         <Alerta 
